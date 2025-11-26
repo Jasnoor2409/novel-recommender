@@ -51,6 +51,7 @@ novel-recommender/
 
 ▶️ # Running the Project
 📦 Install dependencies:
+---
 npm install
 
 🟢 Start the development server:
