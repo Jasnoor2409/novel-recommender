@@ -1,13 +1,7 @@
 # 🎯 Novel Recommendation System
 
 ### 👩‍💻 Developed by: **Jasnoor Kaur**  
-**Roll No:** 2410998539  
-**Course:** BE CSE (AIFT), Semester 3  
-**University:** Chitkara University  
-
----
-
-## 📘 Project Overview  
+ 
 The **Novel Recommendation System** is a React-based web application that helps users discover novels based on preferred genres.  
 It includes an interactive UI, dynamic book cards, detailed popups, navigation highlighting, and an AI-powered chatbot capable of answering book-related queries.
 
