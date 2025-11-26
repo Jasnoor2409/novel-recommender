@@ -1,44 +1,52 @@
-🎯 # Novel Recommendation System
-👩‍💻 ## Developed by: Jasnoor Kaur
+# 🎯 Novel Recommendation System
 
-Roll No: 2410998539
-Course: BE CSE (AIFT), Semester 3
-University: Chitkara University
+### 👩‍💻 Developed by: **Jasnoor Kaur**  
+**Roll No:** 2410998539  
+**Course:** BE CSE (AIFT), Semester 3  
+**University:** Chitkara University  
 
-📘 # Project Overview
+---
 
-The Novel Recommendation System is a React-based web application that helps users discover novels based on chosen genres.
-It includes an interactive UI, dynamic book cards, popups, navigation highlights, and a built-in chatbot that answers book-related queries using natural language.
+## 📘 Project Overview  
+The **Novel Recommendation System** is a React-based web application that helps users discover novels based on preferred genres.  
+It includes an interactive UI, dynamic book cards, detailed popups, navigation highlighting, and an AI-powered chatbot capable of answering book-related queries.
 
-✨ # Features
-🔍 ## Genre-Based Recommendations
+---
 
-Provides book suggestions filtered by genre using content-based logic.
+## ✨ Features
 
-📚 ## Dynamic Book Cards
+### 🔍 Genre-Based Recommendations  
+Suggests books based on a selected genre using content-based filtering.
 
-Displays books using clean, responsive, modern cards.
+### 📚 Dynamic Book Cards  
+Displays books using modern and responsive cards.
 
-🤖 ## Integrated Chatbot
+### 🤖 Integrated Chatbot  
+Helps users by answering book-related questions in natural language.
 
-The chatbot helps users find books based on queries like “Suggest a mystery novel”.
+### 📄 Popup Modal  
+Shows detailed information including summary, genre, and buy link.
 
-📄 ## Popup Modal
+### 🧭 Navigation Bar  
+Highlights the current page for better user experience.
 
-Shows detailed information including genre, description, and buy link.
+---
 
-🧭 ## Navigation Bar
+## 🛠️ Tech Stack Used
 
-Highlights the active page to improve user experience.
+| 🧰 Technology      | 🔎 Purpose                                      |
+|-------------------|------------------------------------------------|
+| **React.js**      | Main frontend framework                        |
+| **JavaScript ES6**| Filtering logic + chatbot functionality        |
+| **CSS3**          | UI styling and layout                          |
+| **HTML5**         | App structure                                  |
+| **CSV Dataset**   | Stores book data                               |
 
-🛠️ # Tech Stack Used
-🧰 Technology	🔎 Purpose
-React.js	Main frontend framework
-JavaScript ES6	Filtering logic + chatbot functionality
-CSS3	Styling and layout design
-HTML5	App structure
-CSV Dataset	Stores book data
-📁 # Project Structure
+---
+
+## 📁 Project Structure
+
+```
 novel-recommender/
 │── public/
 │── src/
@@ -48,24 +56,33 @@ novel-recommender/
 │   │── pages/
 │── package.json
 │── README.md
+```
 
-▶️ # Running the Project
-📦 Install dependencies:
 ---
+
+## ▶️ Running the Project
+
+### 📦 Install dependencies:
+```bash
 npm install
+```
 
-🟢 Start the development server:
+### 🟢 Start the development server:
+```bash
 npm start
+```
 
-📦 Create a production build:
+### 📦 Create a production build:
+```bash
 npm run build
+```
 
-🚀 # Future Enhancements
+---
 
-🔐 Add user login + personalized recommendations
+## 🚀 Future Enhancements
 
-🌐 Integrate real-time book APIs
+- 🔐 Add user login + personalized recommendations  
+- 🌐 Integrate online book APIs  
+- 🔎 Add search + filters  
+- 🎨 Improve UI animations  
 
-🔎 Add search bar and advanced filtering
-
-🎨 Improve UI animations and transitions
