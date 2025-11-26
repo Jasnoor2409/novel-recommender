@@ -1,1 +1,1 @@
-# NRS
+# novel-recommender
